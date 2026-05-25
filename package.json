@@ -1,0 +1,12 @@
+﻿{
+  "name": "quantum-classroom",
+  "version": "1.0.0",
+  "description": "Quantum Classroom portal with cosmic glassmorphism and AI model switcher",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
